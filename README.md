@@ -28,11 +28,11 @@ where
 
 ### **Breaking Down the Equation**
 1. **Radial Function \( R \)**
-   - The function \( R = a (1 + m \cos(u)) \) controls the size of the radius at different values of \( u \).
+   - The function R = a (1 + m cos(u)) controls the size of the radius at different values of \( u \).
    - When \( m = -1 \), the surface exhibits periodic shrinking and expansion.
 
 2. **X and Y Coordinates**
-   - The **\( x \) and \( y \) equations** define a circular motion that is scaled by \( 2R \cos^2(v) \).
+   - The **\( x \) and \( y \) equations** define a circular motion that is scaled by 2R cos²(v).
    - This means that as \( v \) varies, the points on the surface will move in a way that resembles **nested, deformed circular layers**.
 
 3. **Z Coordinate**
