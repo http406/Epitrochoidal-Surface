@@ -36,7 +36,7 @@ where
    - This means that as \( v \) varies, the points on the surface will move in a way that resembles **nested, deformed circular layers**.
 
 3. **Z Coordinate**
-   - The **\( z \)-coordinate** follows a **sinusoidal wave**: \( z = R \sin(2v) \).
+   - The **\( z \)-coordinate** follows a **sinusoidal wave**: z = R sin(2v).
    - This gives the surface its characteristic **undulating, wave-like appearance**.
 
 ---
